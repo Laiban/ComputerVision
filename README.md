@@ -1,3 +1,3 @@
 # ComputerVision
 
-A mini computervision project that you might want to give a shoot
+A mini computer vision project that you might want to give a shoot
